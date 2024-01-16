@@ -2,4 +2,4 @@
 It is creted from local machine.
 
 # Editor
-Salim Sandhey
+Salim Sandhey and team.
